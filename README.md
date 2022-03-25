@@ -47,6 +47,10 @@ pip install -r requirements.txt
 
 如果将备份的可视化数据还原？在新环境中安装 DataEase v1.8.0，用解压的 `dataease.tar.gz` 文件覆盖安装目录 ` /opt/dataease` 即可。
 
+## 其他
+
+> 仓库123云盘备份：[https://www.123pan.com/s/RKrRVv-jypJH](https://www.123pan.com/s/RKrRVv-jypJH)
+
 ## 参考
 
 > [http://www.chinavis.org/2021/challenge.html](http://www.chinavis.org/2021/challenge.html)
