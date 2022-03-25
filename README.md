@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## 还原
 
-如果将备份的可视化数据还原？在新环境中安装 DataEase v1.8.0，用解压的 `dataease.tar.gz` 文件覆盖安装目录 ` /opt/dataease` 即可。
+如果将备份的可视化数据还原？在新环境中安装 [DataEase v1.8.0](https://community.fit2cloud.com/#/products/dataease/downloads)，用解压的 `dataease.tar.gz` 文件覆盖安装目录 ` /opt/dataease` 即可。
 
 ## 其他
 
