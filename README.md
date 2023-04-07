@@ -6,8 +6,6 @@
 
 ## 演示
 
-> [http://49.209.116.167/link/nVf8olei](http://49.209.116.167/link/nVf8olei)（仅限校内局域网访问，随时有更换ip的风险）
-
 ![demo](images/demo.png)
 
 ## 安装
